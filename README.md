@@ -27,7 +27,6 @@ The Healthcare Appointment System provides a simple interface for patients to bo
 
 The Healthcare Appointment System provides a simple interface for patients to book appointments with doctors and for administrators to manage doctors, schedules, and appointments. It is suitable as a teaching project and can be extended into a production-ready system.
 
-This README assumes the repository contains a typical web app structure (frontend, backend, DB config). If your repo differs, update the paths and commands accordingly.
 
 ## Features
 
